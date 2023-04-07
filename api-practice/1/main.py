@@ -14,7 +14,7 @@ else:
     data.raise_for_status()
 
 
-# Eaxmple to Create a Character #
+# Eaxmple to Create a Character
 """ data = {"name": "chron", "status": "alive",}
 response = requests.post(url=BASE_ENDPOINT, data=data)
 print(response) 
